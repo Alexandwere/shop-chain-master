@@ -1,0 +1,8 @@
+shop:
+  name: "Семерочка"
+  time-open: "09:00"
+  time-close: "18:00"
+  bread:
+    price: 100
+server:
+  port: 8081
